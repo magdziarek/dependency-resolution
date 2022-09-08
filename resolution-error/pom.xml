@@ -29,7 +29,7 @@
     </dependency>
 
     <dependency>
-      <groupId>io.github.acm19.dependency.resolution.snyk</groupId>
+      <groupId>io.github.acm19.dependency.resolution</groupId>
       <artifactId>transitive-dependency</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
